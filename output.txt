@@ -1,0 +1,8 @@
+1 2 1990 Khong Nam nhuan 
+28 2 2000 Nam nhuan 
+31 12 2014 Khong Nam nhuan 
+29 2 2014 Ngay khong hop le 
+cac ngay ke tiep la :
+2/2/1990
+29/2/2000
+1/1/2015
